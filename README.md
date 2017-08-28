@@ -147,7 +147,3 @@ Use in forms:
 <form method="POST" action="/users?_method=put">
 </form>
 ```
-
-## Time Permitting - Integration SQL Databases
-
-- If time permits, we will look into the [PG Promise](https://github.com/vitaly-t/pg-promise) module to integrate our Express app with SQL.
